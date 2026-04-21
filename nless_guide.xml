@@ -9,6 +9,12 @@
 
   <programme start="20260420000000 -0500" stop="20260420235959 -0500" channel="Nless1">
     <title lang="en">Nless Originals: Preacher's Showdown</title>
-    <desc lang="en">A Western Noir drama set in the McKnight territory. Starring Silas Brogan.</desc>
+    <desc lang="en">The legacy of the McKnight territory continues. Featuring Silas Brogan.</desc>
+  </programme>
+
+  <programme start="20260420000000 -0500" stop="20260420235959 -0500" channel="Music1">
+    <title lang="en">R&amp;B Vibes Mixed</title>
+    <desc lang="en">Smooth R&amp;B hits and classic soul curated by McKnight Music.</desc>
   </programme>
 </tv>
+
