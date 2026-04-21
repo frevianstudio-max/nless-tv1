@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/frevianstudio-max/nless-tv1/main/nless_guide.xml"
 
-#EXTINF:-1 tvg-id="NlessOriginals1" tvg-name="NLESS ORIGINALS" tvg-logo="https://i.imgur.com/your-logo.png" group-title="NLESS EXCLUSIVE", NLESS ORIGINALS
+#EXTINF:-1 tvg-id="Nless1" tvg-name="NLESS ORIGINALS" group-title="NLESS EXCLUSIVE", NLESS ORIGINALS
 http://YOUR_VIDEO_URL_HERE
 
-#EXTINF:-1 tvg-id="McKnightMusic1" tvg-name="MCKNIGHT MUSIC" tvg-logo="https://i.imgur.com/your-logo.png" group-title="NLESS EXCLUSIVE", MCKNIGHT MUSIC
+#EXTINF:-1 tvg-id="Music1" tvg-name="MCKNIGHT MUSIC" group-title="NLESS EXCLUSIVE", MCKNIGHT MUSIC
 http://YOUR_MUSIC_URL_HERE
 
 # --- MOVIE & SHOW ADD-ONS ---
