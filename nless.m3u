@@ -1,13 +1,14 @@
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/frevianstudio-max/nless-tv1/main/nless_guide.xml"
 
+# --- NLESS ORIGINALS (Western Test) ---
 #EXTINF:-1 tvg-id="Nless1" tvg-name="NLESS ORIGINALS" group-title="NLESS EXCLUSIVE", NLESS ORIGINALS
-https://ntv1.akamaized.net/hls/live/2023519/NASA-TV1/master.m3u8
-#EXTINF:-1 tvg-id="Music1" tvg-name="MCKNIGHT MUSIC" group-title="NLESS EXCLUSIVE", MCKNIGHT MUSIC
-http://YOUR_MUSIC_URL_HERE
+https://archive.org/download/TheLawlessFrontier/TheLawlessFrontier.mp4
 
-# --- MOVIE & SHOW ADD-ONS ---
+# --- MCKNIGHT MUSIC (R&B Test) ---
+#EXTINF:-1 tvg-id="Music1" tvg-name="MCKNIGHT MUSIC" group-title="NLESS EXCLUSIVE", MCKNIGHT MUSIC
+https://live.powerhitz.com/realrnb?aw_0_req.gdpr=true
+
+# --- FREE ADD-ONS ---
 #EXTINF:-1 group-title="FREE MOVIES", PLUTO TV
 https://i.mjh.nz/PlutoTV/us.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SHOWS", SAMSUNG TV PLUS
-https://i.mjh.nz/SamsungTVPlus/us.m3u8
